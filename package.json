@@ -5,7 +5,7 @@
 	"type": "module",
 	"main": "index.js",
 	"scripts": {
-		"watch": "nodemon src/server.js"
+		"dev": "nodemon src/server.js"
 	},
 	"author": "vovaushenko",
 	"license": "ISC",
